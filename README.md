@@ -1,16 +1,1 @@
-Generador de frases
-
-<!DOCTYPE html>
-<html>
-<head>
-   <title>Generador de Frases</title>
-   <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  <h1>Frases Bonitas</h1>
-  <button id="generar">Generar frase</button>
-  <p id="frase"></p>
-  <script src="script.js"></script>
-  <img src="corazonrojo.jpg" alt="Corazón rojo">
-</body>
-</html>
+index.html Generador de Frases
