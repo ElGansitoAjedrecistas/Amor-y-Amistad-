@@ -1,1 +1,1 @@
-index.html Generador de Frases
+index.html
