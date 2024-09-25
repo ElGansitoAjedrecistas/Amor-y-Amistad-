@@ -1,1 +1,1 @@
-Generador de Frases
+Amor y Amistad 
